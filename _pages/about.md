@@ -15,6 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome  to my website! I am an Economics PhD candidate at Harvard University. I work on energy and environmental topics, using tools from international trade and industrial organization. 
+Welcome  to my website! I am an economist doing research on energy and environmental topics. In my work, I leverage tools from international trade and empirical industrial organization.
 
-I am available for interviews in the 2024/25 Job Market. You can reach me at mabuin at g dot harvard dot edu. Check out my job market candidate website at [this link](https://sites.harvard.edu/constanza-abuin/).
+I am currently an IES Postdoctoral Fellow at Princeton University. In 2026, I will join Johns Hopkins University as an Assistant Professor.
+
+Feel free to reach out at ma9169 at princeton dot edu.
