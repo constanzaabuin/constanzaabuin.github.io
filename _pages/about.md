@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome  to my website! I am an economist doing research on energy and environmental topics. In my work, I leverage tools from international trade and empirical industrial organization.
+I am an Assistant Professor in the Department of Economics at Johns Hopkins University. I do research on energy and environmental topics, using tools from international trade and empirical industrial organization.
 
-I am currently an IES Postdoctoral Fellow at Princeton University. In 2026, I will join Johns Hopkins University as an Assistant Professor.
-
-Feel free to reach out at ma9169 at princeton dot edu.
+Feel free to reach out at constanza.abuin at jhu dot edu.
